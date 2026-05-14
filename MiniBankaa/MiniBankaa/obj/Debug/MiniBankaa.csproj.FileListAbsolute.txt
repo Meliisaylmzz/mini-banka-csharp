@@ -1,0 +1,10 @@
+C:\Users\Pc\OneDrive\Desktop\MiniBankaa\MiniBankaa\bin\Debug\MiniBankaa.exe.config
+C:\Users\Pc\OneDrive\Desktop\MiniBankaa\MiniBankaa\bin\Debug\MiniBankaa.exe
+C:\Users\Pc\OneDrive\Desktop\MiniBankaa\MiniBankaa\bin\Debug\MiniBankaa.pdb
+C:\Users\Pc\OneDrive\Desktop\MiniBankaa\MiniBankaa\obj\Debug\MiniBankaa.csproj.AssemblyReference.cache
+C:\Users\Pc\OneDrive\Desktop\MiniBankaa\MiniBankaa\obj\Debug\MiniBankaa.Form1.resources
+C:\Users\Pc\OneDrive\Desktop\MiniBankaa\MiniBankaa\obj\Debug\MiniBankaa.Properties.Resources.resources
+C:\Users\Pc\OneDrive\Desktop\MiniBankaa\MiniBankaa\obj\Debug\MiniBankaa.csproj.GenerateResource.cache
+C:\Users\Pc\OneDrive\Desktop\MiniBankaa\MiniBankaa\obj\Debug\MiniBankaa.csproj.CoreCompileInputs.cache
+C:\Users\Pc\OneDrive\Desktop\MiniBankaa\MiniBankaa\obj\Debug\MiniBankaa.exe
+C:\Users\Pc\OneDrive\Desktop\MiniBankaa\MiniBankaa\obj\Debug\MiniBankaa.pdb
